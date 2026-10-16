@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+# ==============================================================================
+# GitHub Repository & Volledige Instructies (README.md):
+# https://github.com/leffuns/trends-in-ai-labo-4/labo4-multimodaleAI.py
+#
+# Snelstart:
+# 1. pip install google-genai pydantic requests pillow python-dotenv edge-tts gTTS
+# 2. Maak een .env bestand aan met: GEMINI_API_KEY=jouw_api_key
+# 3. Genereer de MP3-vragen: python generate_audio_questions.py
+# 4. Start het experiment:   python labo4-multimodaleAI.py
+# ==============================================================================
 """
 Trends in AI - Hoofdstuk 3 Lab: Multimodale AI voor Beeldbeschrijving & VQA
 Bestandsnaam: labo4-multimodaleAI.py
